@@ -25,7 +25,15 @@ I looked at **WordPress** vs. **React (Next.js) + Node.js** and chose this stack
 **Scalable** – Can handle more users without slowing down  
 **Fast** – Loads pages quickly with optimized rendering  
 **Secure** – Protects API routes & supports strong authentication  
-**Flexible** – Works well with databases, APIs, and cloud services  
+**Flexible** – Works well with databases, APIs, and cloud services
+
+## Why Not WordPress?
+While WordPress is great for simple websites, it’s not the best choice for this project because:
+
+**Limited scalability** – WordPress can slow down as more users and features are added
+**Performance issues** – Plugins and themes can affect speed, making the site less efficient
+**Security risks** – WordPress sites are common targets for attacks, and keeping it secure requires constant updates
+**Less flexibility** – Customizing features like user authentication, LMS, and PPA management is harder compared to a custom-built solution
 
 ## Features (Now & Future)  
 User Registration & Login  
